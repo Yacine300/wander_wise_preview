@@ -31,6 +31,41 @@ IN ORDER TO UNLOCK FULL FUNCTIONALITIES YOU NEED TO BE LUNCHING THE ----- POI-SM
 
 4. **Usage**: Explore the code and the functionalities provided by the flutter application . for any additional informations of how it works please contact this email : [herrouelnour@gmail.com].
 
+screenshots
+
+
+<p align="center">
+  <img src="https://github.com/Yacine300/wander_wise_preview/blob/main/1.png" width="250" alt="Image 1">
+  <img src="https://github.com/Yacine300/wander_wise_preview/blob/main/2.png" width="250" alt="Image 2">
+  <img src="https://github.com/Yacine300/wander_wise_preview/blob/main/3.png" width="250" alt="Image 3">
+</p>
+
+
+<p>&nbsp;</p>
+
+<p align="center">
+  <img src="https://github.com/Yacine300/wander_wise_preview/blob/main/4.png" width="250" alt="Image 4">
+  <img src="https://github.com/Yacine300/wander_wise_preview/blob/main/5.png" width="250" alt="Image 5">
+  <img src="https://github.com/Yacine300/wander_wise_preview/blob/main/6.png" width="250" alt="Image 6">
+</p>
+
+<p>&nbsp;</p>
+
+<p align="center">
+  <img src="https://github.com/Yacine300/wander_wise_preview/blob/main/7.png" width="250" alt="Image 7">
+  <img src="https://github.com/Yacine300/wander_wise_preview/blob/main/8.png" width="250" alt="Image 8">
+  <img src="https://github.com/Yacine300/wander_wise_preview/blob/main/9.png" width="250" alt="Image 9">
+</p>
+
+<p>&nbsp;</p>
+
+<p align="center">
+  <img src="https://github.com/Yacine300/wander_wise_preview/blob/main/10.png" width="250" alt="Image 10">
+  <img src="https://github.com/Yacine300/wander_wise_preview/blob/main/11.png" width="250" alt="Image 11">
+  <img src="https://github.com/Yacine300/wander_wise_preview/blob/main/12.png" width="250" alt="Image 12">
+</p>
+
+
 ## Documentation
 
 NOT AVAIBLE FOR THE MOMENT.
